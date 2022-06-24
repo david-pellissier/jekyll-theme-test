@@ -1,0 +1,3 @@
+[submodule "articles"]
+	path = articles
+	url = git@github.com:david-pellissier/jekyll-submodule-test.git
